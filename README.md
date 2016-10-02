@@ -57,18 +57,28 @@ Here's an example run:
 
 
 `sh run.sh`
+
 `java CitySim9003 1`
 >
 >Driver 1 heading from Hotel to Diner via Fourth Ave.
+
 >Driver 1 heading from Diner to Outside City via Fourth Ave.
+
 >Driver 1 has gone to Philadelphia!
+
 >Driver 1 got 0 cup(s) of coffee.
->-----
+>  -----
+
 >Driver 2 heading from Library to Outside City via Fifth Ave.
+
 >Driver 2 has gone to Cleveland!
+
 >Driver 2 got 0 cup(s) of coffee.
->-----
+
+>  -----
+
 >Driver 3 heading from Diner to Coffee via Phil St.
+
 >Driver 3 heading from Coffee to Library via Fifth Ave.
 >Driver 3 heading from Library to Hotel via Bill St.
 >Driver 3 heading from Hotel to Diner via Fourth Ave.
