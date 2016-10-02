@@ -56,9 +56,8 @@ These are the values that Java recognizes as an Integer.
 Here's an example run:
 
 
->sh run.sh
->
->java CitySim9003 1
+`sh run.sh`
+`java CitySim9003 1`
 >
 >Driver 1 heading from Hotel to Diner via Fourth Ave.
 >Driver 1 heading from Diner to Outside City via Fourth Ave.
