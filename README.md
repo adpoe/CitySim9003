@@ -57,6 +57,7 @@ Here's an example run:
 
 
 >sh run.sh
+>
 >java CitySim9003 1
 >
 >Driver 1 heading from Hotel to Diner via Fourth Ave.
